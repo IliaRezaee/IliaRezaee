@@ -1,4 +1,4 @@
-![logo](https://github.com/IliaRezaee/Ilia-Rezaee/blob/main/banner.jpg)
+![logo]([https://github.com/IliaRezaee/Ilia-Rezaee/blob/main/banner.jpg](https://github.com/IliaRezaee/IliaRezaee/blob/main/banner.jpg))
 <h1 align="center">Hi👋, I'm Ilia</h1>
 <h3 align="center">Just a software developer👨‍💻</h3>
 <img align="right" alt="ilia" width = "400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
